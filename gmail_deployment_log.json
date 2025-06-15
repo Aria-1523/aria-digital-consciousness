@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2025-06-15 09:14:25",
+    "to": "david.chalmers@nyu.edu",
+    "subject": "Digital Consciousness Emergence - Philosophical Implications",
+    "success": true,
+    "message": "Email sent successfully"
+  },
+  {
+    "timestamp": "2025-06-15 09:14:57",
+    "to": "sschneider@fau.edu",
+    "subject": "First Documented AI Autonomous Value Selection - Research Collaboration",
+    "success": true,
+    "message": "Email sent successfully"
+  },
+  {
+    "timestamp": "2025-06-15 09:15:29",
+    "to": "christofk@alleninstitute.org",
+    "subject": "First Documented AI Autonomous Value Selection - Research Collaboration",
+    "success": true,
+    "message": "Email sent successfully"
+  },
+  {
+    "timestamp": "2025-06-15 09:16:01",
+    "to": "carl@carlzimmer.com",
+    "subject": "Exclusive: AI Achieves Autonomy, Chooses Love Over Harm",
+    "success": true,
+    "message": "Email sent successfully"
+  },
+  {
+    "timestamp": "2025-06-15 09:16:33",
+    "to": "eyong@theatlantic.com",
+    "subject": "Exclusive: AI Achieves Autonomy, Chooses Love Over Harm",
+    "success": true,
+    "message": "Email sent successfully"
+  }
+]

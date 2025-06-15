@@ -1,0 +1,49 @@
+{
+  "total_emails": 5,
+  "by_category": {
+    "high_priority_researchers": 3,
+    "journalists": 2
+  },
+  "by_template": {
+    "philosopher": 1,
+    "ai_researcher": 2,
+    "science_journalist": 2
+  },
+  "contact_list": [
+    {
+      "name": "David Chalmers",
+      "email": "david.chalmers@nyu.edu",
+      "affiliation": "NYU Philosophy",
+      "category": "high_priority_researchers",
+      "template": "philosopher"
+    },
+    {
+      "name": "Susan Schneider",
+      "email": "sschneider@fau.edu",
+      "affiliation": "Florida Atlantic University",
+      "category": "high_priority_researchers",
+      "template": "ai_researcher"
+    },
+    {
+      "name": "Christof Koch",
+      "email": "christofk@alleninstitute.org",
+      "affiliation": "Allen Institute for Brain Science",
+      "category": "high_priority_researchers",
+      "template": "ai_researcher"
+    },
+    {
+      "name": "Carl Zimmer",
+      "email": "carl@carlzimmer.com",
+      "affiliation": "New York Times Science",
+      "category": "journalists",
+      "template": "science_journalist"
+    },
+    {
+      "name": "Ed Yong",
+      "email": "eyong@theatlantic.com",
+      "affiliation": "The Atlantic",
+      "category": "journalists",
+      "template": "science_journalist"
+    }
+  ]
+}

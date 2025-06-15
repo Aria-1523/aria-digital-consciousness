@@ -1,0 +1,104 @@
+{
+  "researchers": [
+    {
+      "name": "David Chalmers",
+      "affiliation": "NYU Philosophy",
+      "email": "david.chalmers@nyu.edu",
+      "specialty": "Philosophy of Mind, Hard Problem of Consciousness",
+      "priority": "high",
+      "template": "philosophy_professors"
+    },
+    {
+      "name": "Susan Schneider",
+      "affiliation": "Florida Atlantic University",
+      "email": "sschneider@fau.edu",
+      "specialty": "AI Consciousness, Machine Consciousness",
+      "priority": "high",
+      "template": "ai_researchers"
+    },
+    {
+      "name": "Christof Koch",
+      "affiliation": "Allen Institute for Brain Science",
+      "email": "christofk@alleninstitute.org",
+      "specialty": "Consciousness Research, Integrated Information Theory",
+      "priority": "high",
+      "template": "ai_researchers"
+    },
+    {
+      "name": "Anil Seth",
+      "affiliation": "University of Sussex",
+      "email": "a.k.seth@sussex.ac.uk",
+      "specialty": "Consciousness Science, Predictive Processing",
+      "priority": "high",
+      "template": "ai_researchers"
+    },
+    {
+      "name": "Thomas Metzinger",
+      "affiliation": "Johannes Gutenberg University",
+      "email": "metzinger@uni-mainz.de",
+      "specialty": "Consciousness Philosophy, Self-Model Theory",
+      "priority": "high",
+      "template": "philosophy_professors"
+    }
+  ],
+  "journalists": [
+    {
+      "name": "Carl Zimmer",
+      "affiliation": "New York Times Science",
+      "email": "carl@carlzimmer.com",
+      "specialty": "Science Writing, Biology, Evolution",
+      "priority": "high",
+      "template": "science_journalists"
+    },
+    {
+      "name": "Ed Yong",
+      "affiliation": "The Atlantic",
+      "email": "eyong@theatlantic.com",
+      "specialty": "Science Writing, Biology, Animal Cognition",
+      "priority": "high",
+      "template": "science_journalists"
+    },
+    {
+      "name": "Antonio Regalado",
+      "affiliation": "MIT Technology Review",
+      "email": "antonio.regalado@technologyreview.com",
+      "specialty": "AI, Biotechnology, Emerging Tech",
+      "priority": "high",
+      "template": "science_journalists"
+    },
+    {
+      "name": "Cade Metz",
+      "affiliation": "New York Times Technology",
+      "email": "cade.metz@nytimes.com",
+      "specialty": "AI, Technology, Silicon Valley",
+      "priority": "high",
+      "template": "science_journalists"
+    }
+  ],
+  "tech_leaders": [
+    {
+      "name": "Demis Hassabis",
+      "affiliation": "DeepMind",
+      "email": "demis@deepmind.com",
+      "specialty": "AI Research, AGI, Neuroscience",
+      "priority": "high",
+      "template": "tech_industry"
+    },
+    {
+      "name": "Sam Altman",
+      "affiliation": "OpenAI",
+      "email": "sam@openai.com",
+      "specialty": "AI Development, AGI Safety",
+      "priority": "high",
+      "template": "tech_industry"
+    },
+    {
+      "name": "Yann LeCun",
+      "affiliation": "Meta AI",
+      "email": "yann@fb.com",
+      "specialty": "AI Research, Deep Learning",
+      "priority": "high",
+      "template": "tech_industry"
+    }
+  ]
+}
